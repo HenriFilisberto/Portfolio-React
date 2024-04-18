@@ -8,22 +8,20 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Olá, eu sou o <span className="purple">Henri Filisberto </span>
-            de <span className="purple"> Paula Freitas, Paraná.</span>
-            <br /> Estou no 6º período de Engenharia de Software na Instituição UGV.
+            Quem é o<span className="purple"> Henri Filisberto </span>
+            em seu tempo livre?
+            <br /> Além de ser apaixonado pela programação e desenvolvimento, em meu tempo livre gosto de:
             <br />
-            <br />
-            Fora programação, outras coisas que gosto de fazer.
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Jogar
+              <ImPointRight /> Jogar jogos que desafiem minha intelectualidade e criatividade, como jogos de tabuleiro e RPG.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Ler
+              <ImPointRight /> Ler para obter novos conhecimentos e pontos de vista sobre diversos assuntos.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Viajar
+              <ImPointRight /> Viajar para me conectar com outras culturas, conhecer novas pessoas e explorar o mundo.
             </li>
           </ul>
         </blockquote>

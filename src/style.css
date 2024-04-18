@@ -301,6 +301,9 @@ button:focus {
     padding-bottom: 2em !important;
   }
 }
+i{
+  font-style: normal;
+}
 
 .home-about-section {
   position: relative;
@@ -423,16 +426,12 @@ button:focus {
 .project-section {
   position: relative !important;
   padding-top: 150px !important;
-  padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
 }
 
 .project-card {
-  padding-top: 50px !important;
-  padding-bottom: 50px !important;
-  padding-left: 25px !important;
-  padding-right: 25px !important;
   height: auto !important;
+  width: 660px !important;
 }
 
 .project-card-view {
@@ -474,7 +473,7 @@ button:focus {
   color: white !important;
   font-size: 2.3em !important;
   font-weight: 500 !important;
-  padding-top: 10px !important;
+  padding-top: 0px !important;
 }
 
 .about-section {
@@ -673,3 +672,4 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+

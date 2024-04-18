@@ -15,10 +15,10 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-               <span className="purple"> Deixe eu me apresentar </span> 
+               <span className="purple"> Permita-me que eu me apresente </span> 
             </h1>
             <p className="home-about-body">
-            Meu nome é Henri, sou estudante do 6º Período de Engenharia de Software da Instituição UGV.
+            Meu nome é Henri, sou estudante do 7º Período de Engenharia de Software da Instituição UGV.
               <br />
               <br />
               Nasci na cidade de 
@@ -30,11 +30,11 @@ function Home2() {
               </i>
               <br />
               <br />
-              Atualmente estou focado em finalizar a minha graduação e buscar mais conhecimento em cursos para começar a trabalhar na área de
+              Atualmente estou aprimorando meus conhecimentos através de projetos, cursos e da graduação para encontrar uma oportunidade e dar inicio a minha carreira
               <i>
                 <b className="purple">
                   {" "}
-                  Programação, como desenvolvedor Full-Stack.
+                  como desenvolvedor.
                 </b>
               </i>
             </p>
@@ -47,9 +47,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>SOCIAIS</h1>
+            <h1 className="purple">SOCIAIS</h1>
             <p>
-              Entre em <span className="purple">contato </span>comigo
+              Entre em contato comigo
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
