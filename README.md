@@ -16,35 +16,29 @@ Este projeto foi desenvolvido utilizando estas tecnologias.
 - VsCode
 - Vercel
 
-## Features
+## Características
 
-**📖 Multi-Page Layout**
+**📖 Layout de Múltiplas Páginas**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Estilizado com React-Bootstrap e CSS**
 
-**📱 Fully Responsive**
+**📱 Totalmente Responsivo**
 
-## Getting Started
+## Começando
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clone este repositório. Você precisará ter o node.js e o git instalados globalmente em sua máquina.
 
-## 🛠 Installation and Setup Instructions
+## 🛠 Instruções de Instalação e Configuração
 
-1. Installation: `npm install`
+1. Instalação: `npm install`
 
-2. In the project directory, you can run: `npm start`
+2. No diretório do projeto, você pode executar: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Executa o aplicativo no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
+A página será recarregada se você fizer edições.
 
-## Usage Instructions
+## Instruções de Uso
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+Abra a pasta do projeto e navegue até `/src/components/.` <br/>
+Você encontrará todos os componentes usados e poderá editar suas informações conforme necessário.
